@@ -17,53 +17,51 @@ Ideas for this repo:
 
 ## Structure
 repo_structure_suggested_by_chat/
-│
-├── basics/
-│   ├── git/
-│   │   └── git_basics.md
-│   ├── conda/
-│   │   └── conda_basics.md
-│   ├── python/
-│   │   ├── syntax.md
-│   │   ├── oop.md
-│   │   └── exceptions.md
-│   └── data_structures_algorithms/
-│       ├── arrays.md
-│       ├── sorting.md
-│       └── graphs.md
-│
-├── data_handling/
-│   ├── sql/
-│   │   ├── sql_basics.md
-│   │   ├── joins.md
-│   │   └── normalization.md
-│   └── pandas/
-│       ├── data_cleaning.md
-│       └── visualization.md
-│
-├── machine_learning/
-│   ├── foundations/
-│   │   ├── intro_ml.md
-│   │   ├── supervised_learning.md
-│   │   └── model_evaluation.md
-│   ├── scikit_learn/
-│   │   ├── preprocessing.md
-│   │   └── model_building.md
-│   └── pytorch/
-│       ├── pytorch_blitz.md
-│       └── neural_networks.md
-│
-└── projects/
-    ├── web_development/
-    │   ├── flask_basics.md
-    │   └── building_apis.md
-    ├── automation/
-    │   └── web_scraping.md
-    ├── apis/
-    │   ├── consuming_apis.md
-    │   └── creating_apis.md
-    ├── docker/
-    │   └── docker_basics.md
-    └── cloud/
-        ├── aws_basics.md
-        └── deploying_apps.md
+- **Git**
+  - [git_basics.md](basics/git/git_basics.md)
+- **Conda**
+  - [conda_basics.md](basics/conda/conda_basics.md)
+- **Python**
+  - [syntax.md](basics/python/syntax.md)
+  - [oop.md](basics/python/oop.md)
+  - [exceptions.md](basics/python/exceptions.md)
+- **Data Structures and Algorithms**
+  - [arrays.md](basics/data_structures_algorithms/arrays.md)
+  - [sorting.md](basics/data_structures_algorithms/sorting.md)
+  - [graphs.md](basics/data_structures_algorithms/graphs.md)
+
+## Data Handling
+- **SQL**
+  - [sql_basics.md](data_handling/sql/sql_basics.md)
+  - [joins.md](data_handling/sql/joins.md)
+  - [normalization.md](data_handling/sql/normalization.md)
+- **Pandas**
+  - [data_cleaning.md](data_handling/pandas/data_cleaning.md)
+  - [visualization.md](data_handling/pandas/visualization.md)
+
+## Machine Learning
+- **Foundations**
+  - [intro_ml.md](machine_learning/foundations/intro_ml.md)
+  - [supervised_learning.md](machine_learning/foundations/supervised_learning.md)
+  - [model_evaluation.md](machine_learning/foundations/model_evaluation.md)
+- **Scikit-Learn**
+  - [preprocessing.md](machine_learning/scikit_learn/preprocessing.md)
+  - [model_building.md](machine_learning/scikit_learn/model_building.md)
+- **PyTorch**
+  - [pytorch_blitz.md](machine_learning/pytorch/pytorch_blitz.md)
+  - [neural_networks.md](machine_learning/pytorch/neural_networks.md)
+
+## Projects
+- **Web Development**
+  - [flask_basics.md](projects/web_development/flask_basics.md)
+  - [building_apis.md](projects/web_development/building_apis.md)
+- **Automation**
+  - [web_scraping.md](projects/automation/web_scraping.md)
+- **APIs**
+  - [consuming_apis.md](projects/apis/consuming_apis.md)
+  - [creating_apis.md](projects/apis/creating_apis.md)
+- **Docker**
+  - [docker_basics.md](projects/docker/docker_basics.md)
+- **Cloud**
+  - [aws_basics.md](projects/cloud/aws_basics.md)
+  - [deploying_apps.md](projects/cloud/deploying_apps.md)
