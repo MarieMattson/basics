@@ -16,7 +16,7 @@ Ideas for this repo:
 - Take good care of yourself <3
 
 ## Structure
-repo structure suggested by chat/
+repo_structure_suggested_by_chat/
 │
 ├── basics/
 │   ├── git/
