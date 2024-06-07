@@ -9,9 +9,17 @@ Ideas for this repo:
 - scikit learn
 - what are apis really?
 
+## Other to-dos
+- Fixa bild till cv och linkedin (plus bakgrundsbild till LI)
+- Kontakta företag
+- Kanske skriva ett abstract eller två om potentiella framtida projekt
+- Kontakta människor på LI
+- Skriv vad du har åstadkommit, inte bara vad du har jobbat med
+
 ## General tips
 - Practice on Leetcode or hackerrank
 - Do notebooks
+- Comment and write good Readmes!
 - Remember to document and post on git
 - Take good care of yourself <3
 
