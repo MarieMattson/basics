@@ -15,6 +15,7 @@ Ideas for this repo:
 - Kanske skriva ett abstract eller två om potentiella framtida projekt
 - Kontakta människor på LI
 - Skriv vad du har åstadkommit, inte bara vad du har jobbat med
+- Sök 10 jobb på LI, och se vilka kompetenser de eftersöker. De som stämmer in på dig lägger du till, eventuellt försöker du skaffa andra (om det går och verkar relevant)
 
 ## General tips
 - Practice on Leetcode or hackerrank
